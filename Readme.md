@@ -12,7 +12,7 @@ This example demonstrates how to bind an [ASPxGridView](https://docs.devexpress.
 
 The project contains an [ASPxRadioButtonList](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxRadioButtonList) control that allows users to switch between three data sources (SqlDataSource). 
 
-Note that the grid's [`EnableViewState`](https://docs.microsoft.com/en-us/dotnet/api/system.web.ui.control.enableviewstate#System_Web_UI_Control_EnableViewState) property is set to `false` to avoid exceptions when binding the grid to another data source.
+Note that the grid's [`EnableViewState`](https://learn.microsoft.com/en-us/dotnet/api/system.web.ui.control.enableviewstate) property is set to `false` to avoid exceptions when binding the grid to another data source.
 
 ## Files to Look At
 
